@@ -11,6 +11,6 @@
     </script>
 </head>
 <body>
-    <!-- 사용자에게 보여줄 콘텐츠 -->
+    hello
 </body>
 </html>
