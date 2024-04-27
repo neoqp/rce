@@ -7,9 +7,6 @@
 </head>
 <body>
     <script>
-        window.onload = function() {
-            window.location.href = 'https://www.naver.com';
-        };
         alert(1);
     </script>
     hello
