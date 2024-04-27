@@ -6,9 +6,7 @@
     <title>Redirect</title>
 </head>
 <body>
-    <script>
-        alert(1);
-    </script>
+    1111
     hello
 </body>
 </html>
